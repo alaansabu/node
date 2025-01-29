@@ -1,7 +1,9 @@
-module.exports.items = ["item1","item2","item3"]
-const name = {
-    name:Blob,
-    id:101,
+console.log("hi");
+setTimeout(function(){
 
-}
-module.exports.fuckyou = name;
+    console.log("hey there55");
+    
+},0)
+
+console.log("hi all");
+
